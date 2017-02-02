@@ -1,0 +1,13 @@
+{
+  "name": "blog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jamie Bunyassi <jbunyassi@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "susy": "^2.2.12"
+  }
+}
