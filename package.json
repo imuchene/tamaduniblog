@@ -19,6 +19,7 @@
   },
   "Dependencies": {
     "gulp": "^3.9.1",
+    "gulp-util": "^3.0.0",
     "laravel-elixir": "^5.0.0",
     "bower": "^1.5.2",
     "susy": "^2.2.12"
