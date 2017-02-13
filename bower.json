@@ -8,6 +8,7 @@
   "license": "MIT",
   "homepage": "",
   "dependencies": {
-    "susy": "^2.2.12"
+    "susy": "^2.2.12",
+    "gulp-util": "^3.0.8"
   }
 }

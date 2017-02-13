@@ -6,7 +6,6 @@
   "devDependencies": {
     "bower": "^1.5.2",
     "gulp": "^3.9.1",
-    "gulp-util": "^3.0.8",
     "laravel-elixir": "^5.0.0",
     "laravel-elixir-webpack": "^1.0.1",
     "node-sass": "^4.5.0",
@@ -23,7 +22,6 @@
   },
   "dependencies": {
     "laravel-elixir": "^5.0.0",
-    "gulp-util": "^3.0.8",
     "susy": "^2.2.12"
   }
 }
