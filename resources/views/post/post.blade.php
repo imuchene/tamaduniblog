@@ -2,7 +2,7 @@
 
 @section('header')
     @include('post/partials/image', [
-        'url' => asset('img/coding.jpeg')
+        'url' => secure_asset('img/coding.jpeg')
     ])
 @endsection
 
