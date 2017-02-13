@@ -18,10 +18,12 @@
     "gulp": "^3.9.1",
     "laravel-elixir": "^5.0.0",
     "bower": "^1.5.2",
+    "gulp-util": "^3.0.8",
     "susy": "^2.2.12"
   },
   "dependencies": {
     "laravel-elixir": "^5.0.0",
+    "gulp-util": "^3.0.8",
     "susy": "^2.2.12"
   }
 }
